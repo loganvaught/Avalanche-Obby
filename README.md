@@ -1,2 +1,2 @@
-I started making this game in early 2021, with Roblox Studio. The player is supposed to reach the top of the mountain, but there are boulders rolling down the hill, which kill the player.
+I started making this game in 2021, but came back to it in 2023 with massive changes. I made it using Roblox Studio. In the game, the player is supposed to reach the top of the mountain, but there are boulders rolling down the hill, which kill the player.
 There are checkpoints, data storing systems, GUI systems, and a little more.
